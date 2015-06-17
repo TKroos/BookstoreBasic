@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/ic_menu_delete"
+        android:showAsAction="ifRoom"
+        android:title="@string/delete"/>
+    <!--<item
+        android:id="@+id/authors"
+        android:icon="@drawable/ic_menu_clear_playlist"
+        android:showAsAction="ifRoom"
+        android:title="@string/authors"/>-->
+</menu><!-- From: file:/C:/Users/Xiang/Desktop/Stevens/CS522%20Mobile%20App/Assignment%204/Assignment4-Code/BookstoreBasic-Solution%202/app/src/main/res/menu/contextual_action_bar.xml -->

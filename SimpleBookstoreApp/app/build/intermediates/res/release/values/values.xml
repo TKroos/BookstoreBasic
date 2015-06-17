@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Xiang/Desktop/Stevens/CS522%20Mobile%20App/Assignment%203/Assignment3-Code/BookstoreBasic/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="add">Add</string>
+    <string name="app_name">Xiang Wang Book Store</string>
+    <string name="authors">Author List</string>
+    <string name="cancel">Cancel</string>
+    <string name="checkout">Checkout</string>
+    <string name="delete">Delete</string>
+    <string name="detail">Detail</string>
+    <string name="empty_cart">THE CART IS EMPTY!</string>
+    <string name="order">Order</string>
+    <string name="search">Search</string>
+</resources>
